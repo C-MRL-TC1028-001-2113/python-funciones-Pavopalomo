@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "Convertidor",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01Convertidor",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calcula Grado",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02CalculaGrado",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "TiendaSillas",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04TiendaSillas",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "BinarioDecimal",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05BinarioDecimal",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "AreaPrismaRectangular",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06AreaPrismaRectangular",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "VolumenPrismaRectangular",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/07VolumenPrismaRectangular",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "TarjeteriaEspanola",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/08TarjeteriaEspanola",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "AreaRectangulo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/09AreaRectangulo",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "10Oraciones",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/10Oraciones",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
